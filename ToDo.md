@@ -17,3 +17,8 @@
 
 - Display pricing for events using the provided rate information.
 - Clearly display student discount information with the pricing for events.
+
+## Could-haves
+
+- Create a static section on the website for customer testimonials.
+- Populate this section with a selection of pre-written testimonials.
