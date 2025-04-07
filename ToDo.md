@@ -3,7 +3,7 @@
 ## Structure
 
 - [Use the wireframes](https://codeinstitute.s3.eu-west-1.amazonaws.com/Bootstrap/bootstrapM2-02.01.03-boardwalk-games-full-wireframes.pdf).
-- Use the colours selected. These were #3A2620 Bistre <font color=#3A2620>sample text</font>, #AA9581 Beaver <font color=#AA9581>sample text</font>, #416A8E Lapis Lazuli <font color=#416A8E>sample text</font>, #7A9FC2 Air superiority blue <font color=#7A9FC2>sample text</font>, #000000 Black <font color=#000000>sample text</font>, and #FFFFFF White <font color=#FFFFFF>sample text</font>.
+- Use the colours selected. These were \#3A2620 Bistre <font color=#3A2620>sample text</font>, \#AA9581 Beaver <font color=#AA9581>sample text</font>, \#416A8E Lapis Lazuli <font color=#416A8E>sample text</font>, \#7A9FC2 Air superiority blue <font color=#7A9FC2>sample text</font>, \#000000 Black <font color=#000000>sample text</font>, and \#FFFFFF White <font color=#FFFFFF>sample text</font>.
 - Use the fonts selected. These were [Macondo](https://fonts.google.com/specimen/Macondo) for headings and [Inter](https://fonts.google.com/specimen/Inter) for body.
 
 ## Must-haves
