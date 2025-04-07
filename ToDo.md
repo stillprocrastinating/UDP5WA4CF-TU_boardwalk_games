@@ -22,3 +22,4 @@
 
 - Create a static section on the website for customer testimonials.
 - Populate this section with a selection of pre-written testimonials.
+- Integrate the newsletter sign-up form into the website footer.
