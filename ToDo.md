@@ -7,3 +7,5 @@
 1. Increase brand awareness.
 1. Provide essential information to clients.
 1. Encourage group visits and event participation.
+
+Boardwalk Games will appeal to people who enjoy socialising and playing board games.
