@@ -9,3 +9,6 @@
 - Design and implement a homepage layout that prominently features the images and descriptions.
 - Design and place a section for location, contact details, and opening hours using information provided by the client.
 - Ensure the contact section is clearly visible and accessible from all parts of the website, adhering to common design standards.
+- Implement a booking inquiry form on the website.
+- Implement HTML validation on the form to fit the requirements above.
+- Create a success page to direct users to after submitting the form.
