@@ -12,3 +12,8 @@
 - Implement a booking inquiry form on the website.
 - Implement HTML validation on the form to fit the requirements above.
 - Create a success page to direct users to after submitting the form.
+
+## Should-haves
+
+- Display pricing for events using the provided rate information.
+- Clearly display student discount information with the pricing for events.
