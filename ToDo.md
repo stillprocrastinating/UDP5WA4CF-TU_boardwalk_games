@@ -18,6 +18,7 @@
 - Implement a booking inquiry form on the website.
 - Implement HTML validation on the form to fit the requirements above.
 - Create a success page to direct users to after submitting the form.
+- Create a responsive Game Library page featuring a handful of selected games and their relevant details.
 
 ## Should-haves
 
