@@ -1,15 +1,27 @@
-/* Google Fonts */
-
-/* Inter */ @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-/* Macondo */ @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap'); /* Inter Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap'); /* Macondo Google Font */
 
 
 /* body */
 
-body {
-    font-family: Inter, sans-serif;
+:root {
+    --primary-color: #3a2620; /* dark brown */
+    --secondary-color: #aa9581; /* light brown */
+    --highlight-color: #416a8e; /* blue */
+    --light-highlight-color: #7a9fc2; /* light blue */
+    --primary-font: 'Inter', sans-serif;
+    --secondary-font: 'Macondo', cursive;
 }
 
-h1 {
-    font: Macondo, cursive;
+body {
+    font-family: var(--primary-font);
+}
+
+h1, h2, h3 {
+    font-family: var(--secondary-font);
+    color: var(--primary-color);
+}
+
+.sub-heading-color {
+    color: var(--highlight-color);
 }
