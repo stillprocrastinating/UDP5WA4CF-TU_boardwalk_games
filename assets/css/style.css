@@ -20,6 +20,7 @@ body {
 h1, h2, h3 {
     font-family: var(--secondary-font);
     color: var(--primary-color);
+    text-transform: uppercase;
 }
 
 .sub-heading-color {
@@ -35,4 +36,11 @@ h1, h2, h3 {
 
 #navbar .logo {
     width: 30px;
+}
+
+
+/* header */
+
+#header .lead {
+    font-family: var(--secondary-font);
 }
