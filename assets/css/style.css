@@ -25,3 +25,10 @@ h1, h2, h3 {
 .sub-heading-color {
     color: var(--highlight-color);
 }
+
+
+/* nav */
+
+#navbar {
+    background-color: var(--primary-color);
+}
