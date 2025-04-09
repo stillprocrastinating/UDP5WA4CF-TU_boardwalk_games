@@ -27,6 +27,10 @@ h1, h2, h3 {
     color: var(--highlight-color);
 }
 
+.section {
+    margin: 2rem auto;
+}
+
 
 /* nav */
 
