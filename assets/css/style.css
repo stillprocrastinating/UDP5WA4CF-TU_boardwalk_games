@@ -68,3 +68,12 @@ h2 {
 #services .card {
     margin-bottom: 1.5rem;
 }
+
+
+/* breakpoints */
+
+@media screen and (min-width: 768px) {
+    #services .card-body {
+        min-height: 191px;
+    }
+}
