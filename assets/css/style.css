@@ -55,3 +55,12 @@ h2 {
 #header .lead {
     font-family: var(--secondary-font);
 }
+
+
+/* services */
+
+#services .card-footer {
+    font-weight: bold;
+    color: var(--highlight-color);
+    background-color: transparent;
+}
