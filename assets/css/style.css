@@ -93,6 +93,17 @@ h2 {
     color: var(--light-highlight-color);
 }
 
+#contact i {
+    color: var(--secondary-color);
+    font-size: 1.2rem;
+    margin-right: 15px;
+}
+
+#contact .social-links i {
+    color: var(--light-highlight-color);
+    font-size: 1.9rem;
+}
+
 
 /* breakpoints */
 
