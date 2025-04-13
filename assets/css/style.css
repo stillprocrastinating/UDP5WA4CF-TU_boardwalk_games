@@ -85,6 +85,14 @@ h2 {
     padding-bottom: 3rem;
 }
 
+#contact h2 {
+    color: white;
+}
+
+#contact .sub-heading-color {
+    color: var(--light-highlight-color);
+}
+
 
 /* breakpoints */
 
