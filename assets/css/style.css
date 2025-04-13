@@ -77,6 +77,15 @@ h2 {
 }
 
 
+/* footer */
+
+#contact {
+    background-color: var(--primary-color);
+    color: white;
+    padding-bottom: 3rem;
+}
+
+
 /* breakpoints */
 
 @media screen and (min-width: 768px) {
