@@ -21,7 +21,7 @@
 - - ~~Details: Name, email, phone number, event type, message.~~
 - - - ~~Event types: Reserve a table, Dungeons & Dragons, retro game night, tournament, kids party.~~
 - - ~~All form fields are required.~~
-- Create a success page to direct users to after submitting the form.
+>- Create a success page to direct users to after submitting the form.
 - ~~Create a responsive Game Library page featuring a handful of selected games and their relevant details.~~
 
 ## Should-haves
