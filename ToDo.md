@@ -15,8 +15,12 @@
 - ~~Design and implement a homepage layout that prominently features the images and descriptions.~~
 - ~~Design and place a section for location, contact details, and opening hours using information provided by the client.~~
 - ~~Ensure the contact section is clearly visible and accessible from all parts of the website, adhering to common design standards.~~
-- Implement a booking inquiry form on the website.
-- Implement HTML validation on the form to fit the requirements above.
+>- Implement a booking inquiry form on the website.
+>- Implement HTML validation on the form to fit the requirements:
+>- - The form is simple and easy to find and use.
+>- - Details: Name, email, phone number, event type, message.
+>- - - Event types: Reserve a table, Dungeons & Dragons, retro game night, tournament, kids party.
+>- - All form fields are required.
 - Create a success page to direct users to after submitting the form.
 - ~~Create a responsive Game Library page featuring a handful of selected games and their relevant details.~~
 
