@@ -96,6 +96,13 @@ h2 {
 }
 
 
+/* events */
+
+#events table {
+    font-size: x-small;
+}
+
+
 /* game library */
 
 #new-games .card, #fav-games .card {
