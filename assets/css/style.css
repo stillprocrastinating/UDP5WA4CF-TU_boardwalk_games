@@ -102,6 +102,15 @@ h2 {
     font-size: x-small;
 }
 
+#discounts p {
+    background-color: var(--highlight-color);
+    color: white;
+    font-weight: bold;
+    font-size: small;
+    margin-bottom: 0px;
+    padding: 5px;
+}
+
 
 /* game library */
 
