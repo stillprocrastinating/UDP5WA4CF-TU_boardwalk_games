@@ -28,7 +28,7 @@
 
 - ~~Display pricing for events using the provided rate information.~~
 - ~~Clearly display student discount information with the pricing for events.~~
-- Create a reservation form with fields for the user's name, contact information, preferred date and select which game they want to reserve.
+>- Create a reservation form with fields for the user's name, contact information, preferred date and select which game they want to reserve.
 
 ## Could-haves
 
