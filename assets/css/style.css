@@ -15,6 +15,7 @@
 
 body {
     font-family: var(--primary-font);
+    padding-top: 57.15px; /* pairs with nav .fixed-top */
 }
 
 h1, h2, h3 {
@@ -160,7 +161,7 @@ h2 {
 
 @media screen and (min-width: 768px) {
     #services .card-body {
-        min-height: 191px;
+        min-height: 191px; /* card alignment */
     }
     #events table {
         font-size: 1rem;
@@ -174,18 +175,18 @@ h2 {
 
 @media screen and (min-width: 992px) {
     #services .card-body {
-        min-height: auto;
+        min-height: auto; /* card alignment */
     }
 }
 
 @media screen and (min-width: 1200px) {
     #services .card-body {
-        min-height: 220px;
+        min-height: 220px; /* card alignment */
     }
 }
 
 @media screen and (min-width: 1400px) {
     #services .card-body {
-        min-height: 195px;
+        min-height: 195px; /* card alignment */
     }
 }
